@@ -8,7 +8,7 @@ Meu nome é Gilberto Viana de Oliveira, sou graduado em sistemas de informação
 
 ***
 ## Onde me encontrar?
-- [Lattes](http://lattes.cnpq.br/7059390537752738/)
+- [Lattes](http://lattes.cnpq.br/7059390537752738)
 - [Facebook](https://www.facebook.com/gilbertovoliveira)
 - [Instagram](https://www.instagram.com/gilbertovoliveira/)
 
