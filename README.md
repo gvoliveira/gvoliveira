@@ -1,7 +1,7 @@
 ### E aí galera 👋
 
 ### 👨🏻‍💻 Sobre mim
-Meu nome é Gilberto Viana de Oliveira, sou graduado em sistemas de informação pela [Universidade Federal de Viçosa (UFV)](www.ufv.br) e mestre em ciência da computação também pela UFV. Atualmente trabalho como professor efetivo no [Instituto Federal do Triângulo Mineiro (IFTM)](www.iftm.edu.br). Espero que possamos trocar experiências e aprendermos juntos. Meu interesse em desenvolvimento atualmente são em projetos de data science, novas tecnologias, jogos digitais e estratégias de gamificação aplicadas à educação. Vamos aos estudos, hoje e sempre, em busca do leveling...
+Meu nome é Gilberto Viana de Oliveira, sou graduado em sistemas de informação pela [Universidade Federal de Viçosa (UFV)](www.ufv.br) e mestre em ciência da computação também pela UFV. Atualmente trabalho como professor efetivo no [Instituto Federal do Triângulo Mineiro (IFTM)](www.iftm.edu.br). Espero que possamos trocar experiências e aprendermos juntos. Meus interesses em desenvolvimento atualmente são em projetos de data science, novas tecnologias, jogos digitais e estratégias de gamificação aplicadas à educação. Vamos aos estudos, hoje e sempre, em busca do leveling...
 
 ### May the force be with you! 
 
