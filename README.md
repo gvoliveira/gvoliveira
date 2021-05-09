@@ -1,17 +1,19 @@
 ### E aí galera 👋
 
 ### 👨🏻‍💻 Sobre mim
-Meu nome é Gilberto Viana de Oliveira, sou graduado em sistemas de informação pela [Universidade Federal de Viçosa (UFV)](www.ufv.br) e mestre em ciência da computação também pela UFV. Atualmente trabalho como professor efetivo no [Instituto Federal do Triângulo Mineiro (IFTM)](www.iftm.edu.br). Espero que possamos trocar experiências e aprendermos juntos. 
+Meu nome é Gilberto Viana de Oliveira, sou graduado em sistemas de informação pela Universidade Federal de Viçosa (UFV) e mestre em ciência da computação também pela UFV. Atualmente trabalho como professor efetivo no Instituto Federal do Triângulo Mineiro (IFTM). Espero que possamos trocar experiências juntos. 
 
 Meus interesses em desenvolvimento atualmente são em projetos de data science, novas tecnologias, jogos digitais e estratégias de gamificação aplicadas à educação. Vamos aos estudos, hoje e sempre, farmando conhecimento. :star2:
 
-### May the force be with you! 
+[![Lattes](https://img.shields.io/badge/-CNPq_Lattes-5B0EC0?style=flat-square&link=http://lattes.cnpq.br/7059390537752738)](http://lattes.cnpq.br/7059390537752738) [![Instagram Badge](https://img.shields.io/badge/-Instagram-5B0EC0?style=flat-square&labelColor=5B0EC0&logo=instagram&logoColor=white&link=https://www.instagram.com/gilbertovoliveira/)](https://www.instagram.com/gilbertovoliveira/)
+
+  <h2 align="center"> May the force be with you! </h2> 
+
 
 
 ***
-[![Lattes](https://img.shields.io/badge/-CNPq_Lattes-5B0EC0?style=flat-square&link=http://lattes.cnpq.br/7059390537752738)](http://lattes.cnpq.br/7059390537752738) [![Instagram Badge](https://img.shields.io/badge/-Instagram-5B0EC0?style=flat-square&labelColor=5B0EC0&logo=instagram&logoColor=white&link=https://www.instagram.com/gilbertovoliveira/)](https://www.instagram.com/gilbertovoliveira/)
 
----
+
 ![profile count](https://komarev.com/ghpvc/?username=gvoliveira&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/gvoliveira?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
