@@ -9,12 +9,7 @@ Meus interesses em desenvolvimento atualmente são em projetos de data science, 
 
 
 ***
-
-- [Lattes](http://lattes.cnpq.br/7059390537752738)
-- [Facebook](https://www.facebook.com/gilbertovoliveira)
-- [Instagram](https://www.instagram.com/gilbertovoliveira/)
-
-
+[![Lattes](https://img.shields.io/badge/-CNPq_Lattes-5B0EC0?style=flat-square&link=http://lattes.cnpq.br/7059390537752738)](http://lattes.cnpq.br/7059390537752738) [![Instagram Badge](https://img.shields.io/badge/-Instagram-5B0EC0?style=flat-square&labelColor=5B0EC0&logo=instagram&logoColor=white&link=https://www.instagram.com/gilbertovoliveira/)](https://www.instagram.com/gilbertovoliveira/)
 
 ---
 ![profile count](https://komarev.com/ghpvc/?username=gvoliveira&color=red)&nbsp;
@@ -31,6 +26,3 @@ Meus interesses em desenvolvimento atualmente são em projetos de data science, 
 ![Git](https://img.shields.io/badge/-Git-363636?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <a href="mailto:gilbertooliveira@iftm.edu.br"><img src="https://img.shields.io/badge/-gilbertooliveira-2E8B57?style=flat&logo=Gmail&logoColor=white"/></a>
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvoliveira&layout=compact&theme=midnight-purple" alt="gvoliveira" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gvoliveira&show_icons=true&theme=midnight-purple" alt="gvoliveira" /></p> -->
