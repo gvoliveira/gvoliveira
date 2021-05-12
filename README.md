@@ -10,7 +10,6 @@ Meus interesses em desenvolvimento atualmente são em projetos de data science, 
   <h2 align="center"> May the force be with you! </h2> 
 
 
-
 ***
 
 
