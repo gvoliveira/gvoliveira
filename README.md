@@ -27,3 +27,5 @@ Meus interesses em desenvolvimento atualmente são em projetos de data science, 
 ![Git](https://img.shields.io/badge/-Git-363636?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 <a href="mailto:gilbertooliveira@iftm.edu.br"><img src="https://img.shields.io/badge/-gilbertooliveira-2E8B57?style=flat&logo=Gmail&logoColor=white"/></a>
+
+![Gilberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvoliveira&theme=midnight-purple&show_icons=true)
