@@ -13,7 +13,6 @@ Meus interesses em desenvolvimento atualmente são em projetos de data science, 
 ***
 
 ![profile count](https://komarev.com/ghpvc/?username=gvoliveira&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/gvoliveira?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Scala](https://img.shields.io/badge/Scala-D52600.svg?&style=flat&logo=Scala&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-B3F7FF.svg?style=flat&logo=Java&logoColor=D52600)&nbsp;
