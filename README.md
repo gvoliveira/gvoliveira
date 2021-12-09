@@ -2,7 +2,7 @@
 
 <h2><img src="https://scontent.fpoj1-1.fna.fbcdn.net/v/t1.6435-9/122136124_4002426903106932_3677567955277411618_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEzkIcgcPkjAxekfIptUs61DP_B87BqFwcM_8HzsGoXB7UsSBlnN9Y7i-ar5h6yGjGpKWb6L9BrwaRbCqUHZ35l&_nc_ohc=ioYbpkA9ruYAX_g-GoB&_nc_ht=scontent.fpoj1-1.fna&oh=8f45aa578f4ab50a35f36c6adb3ce72e&oe=61D63DD6" width="30">  Olá Mundo.. Gilberto aqui!</h2>
 
-<p><em>Mestre em Ciência da Computação pela UFV;</br>Professor de cursos técnicos e superior no IFTM;</br></br>Amo tecnologia, programação e jogos;</BR>Entusiasta da aplicação de jogos no processo educacional.
+<p><em>:purple_circle:Mestre em Ciência da Computação pela UFV;</br>:purple_circle:Professor de cursos técnicos e superior no IFTM;</br></br> :purple_heart::computer: Amo tecnologia, programação e jogos; </BR>:fire::video_game: Entusiasta da aplicação de jogos no processo educacional. 
 </em></p>
 
 
