@@ -12,7 +12,6 @@
 
 
 
-
 ![profile count](https://komarev.com/ghpvc/?username=gvoliveira&color=5B0EC0&style=flat-square)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-E0661A?style=flat&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-264de4?style=flat&logo=CSS3&logoColor=white)&nbsp;
