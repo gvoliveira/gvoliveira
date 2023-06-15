@@ -7,7 +7,10 @@
 
 
 [![Lattes](https://img.shields.io/badge/-CNPq_Lattes-5B0EC0?style=flat-square&link=http://lattes.cnpq.br/7059390537752738)](http://lattes.cnpq.br/7059390537752738) [![Instagram Badge](https://img.shields.io/badge/-Instagram-5B0EC0?style=flat-square&labelColor=5B0EC0&logo=instagram&logoColor=white&link=https://www.instagram.com/gilbertovoliveira/)](https://www.instagram.com/gilbertovoliveira/)
+[![linkedin Badge](https://img.shields.io/badge/-Linkedin-5B0EC0?style=flat-square&labelColor=5B0EC0&logo=linkedin&logoColor=white&link=https://www.instagram.com/gilbertovoliveira/)](https://www.linkedin.com/in/gilbertovoliveira/)
+
 ![profile count](https://komarev.com/ghpvc/?username=gvoliveira&color=5B0EC0&style=flat-square)&nbsp;
+
 
 ![Coffee Lover](https://img.shields.io/badge/Coffee%20Lover-5B0EC0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)
   <h2 align="center"> May the force be with you! <img src="https://www.pinclipart.com/picdir/big/570-5708997_baby-yoda-png-picture-baby-yoda-transparent-background.png" width="40"></h2> 
