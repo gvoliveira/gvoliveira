@@ -2,7 +2,9 @@
 
 <h2>:earth_americas:  Olá Mundo.. Gilberto aqui!</h2>
 
-<p><em>:purple_circle:Mestre em Ciência da Computação pela UFV;</br>:purple_circle:Professor de cursos técnicos e superior no IFTM;</br></br> :purple_heart::computer: Amo tecnologia, programação e jogos; </BR>:fire::video_game: Entusiasta da aplicação de jogos no processo educacional. 
+<p><em>:purple_circle:Mestre em Ciência da Computação pela UFV;</br>:purple_circle:Professor de cursos técnicos e superior no IFTM;</br>
+  :purple_circle:Coordenador do projeto Farmando XP;</br></br> :purple_heart::computer: Amo tecnologia, programação e jogos; 
+</BR>:fire::video_game: Entusiasta da aplicação de jogos no processo educacional. 
 </em></p>
 
 
