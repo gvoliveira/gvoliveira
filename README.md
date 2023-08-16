@@ -8,6 +8,7 @@
 </em></p>
 
 
+
 [![Lattes](https://img.shields.io/badge/-CNPq_Lattes-5B0EC0?style=flat-square&link=http://lattes.cnpq.br/7059390537752738)](http://lattes.cnpq.br/7059390537752738) [![Instagram Badge](https://img.shields.io/badge/-Instagram-5B0EC0?style=flat-square&labelColor=5B0EC0&logo=instagram&logoColor=white&link=https://www.instagram.com/gilbertovoliveira/)](https://www.instagram.com/gilbertovoliveira/)
 [![linkedin Badge](https://img.shields.io/badge/-Linkedin-5B0EC0?style=flat-square&labelColor=5B0EC0&logo=linkedin&logoColor=white&link=https://www.instagram.com/gilbertovoliveira/)](https://www.linkedin.com/in/gilbertovoliveira/)
 
