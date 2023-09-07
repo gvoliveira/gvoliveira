@@ -4,7 +4,7 @@
 
 <p><em>:purple_circle:Mestre em Ciência da Computação pela UFV;</br>:purple_circle:Professor de cursos técnicos e superior no IFTM;</br>
   :purple_circle:Coordenador do projeto Farmando XP;</br></br> :purple_heart::computer: Amo tecnologia, programação e jogos; 
-</BR>:fire::video_game: Entusiasta da aplicação de jogos no processo educacional. 
+</BR>:fire::video_game: Entusiasta da aplicação de jogos no processo educacional;
 </em></p>
 
 
